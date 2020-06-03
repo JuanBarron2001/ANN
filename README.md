@@ -1,5 +1,5 @@
 # ANN
-##Juan Barron
+## Juan Barron
 
 This project is to learn the inner workings on an AI.
 I learned a simple model [ANN](https://towardsdatascience.com/build-an-artificial-neural-network-ann-from-scratch-part-1-a21988497962).
