@@ -187,6 +187,7 @@ public class ANN
 		float[][] single_pt = {{1,0,0}};
 		float[][] result = sigmoid(add(dot(single_pt, weights),bias[0]));
 		System.out.println(Arrays.deepToString(result));
+		Syste.out.println("Hello World");
 
 
 	}
